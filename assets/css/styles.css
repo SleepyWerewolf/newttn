@@ -9,6 +9,7 @@
 body {
   font-family: 'Roboto', arial, sans-serif;
   color: #444444;
+  background-color:#336699;
   font-size: 16px;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
@@ -185,7 +186,7 @@ input[type="button"] {
   opacity: 1;
 }
 .header.navbar-fixed-top .main-nav .nav .nav-item.nav-item-cta a.btn-cta-secondary {
-  background: #ec6952;
+  background: #336699;
   border-color: #ec6952;
 }
 .header.navbar-fixed-top .main-nav .nav .dropdown-menu a {
